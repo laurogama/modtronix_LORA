@@ -2,7 +2,7 @@
 #define _MODTRONIX_CONFIG_H
 #define DEBUG                           1
 
-#define RF_FREQUENCY                    920570000           // 868KHz
+#define RF_FREQUENCY                    868000000           // 868KHz
 #define TX_OUTPUT_POWER                 14                  // 14 dBm for inAir9
 #define LORA_BANDWIDTH                  7                   // 0: 7.8 kHz,  1: 10.4 kHz, 2: 15.6kHz, 3: 20.8kHz,
 // 4: 31.25kHz, 5: 41.7 kHz, 6: 62.5 kHz,
